@@ -47,11 +47,13 @@ RMQoBV7MkpEzVr3fZsndbpsC1vU7wtuETh<br>
 * Works with live streams
 * Possible to enable for ALL VODs
 
+Don't forget to reload page after changing the settings!
+
 ## How To Use
 
 Chrome Webstore link coming soon!
 
-* Download the .zip
+* Download the .zip and unzip
 * Goto chrome://extensions/
 * Enable Developer Mode in the top right corner
 * Click "Load unpacked" in the top left
