@@ -3,7 +3,7 @@ DougDoug Chat Filter v1.0
 </h1>
 <h1 align="center">
   <img src="https://i.ibb.co/4d7x1Fr/before.gif" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-  <img src="https://i.ibb.co/3N1Qb1x/arrow-1.png" style="float: left; width: 10%; margin-right: 1%; margin-center: 0.5em;">
+  <img src="https://i.ibb.co/3N1Qb1x/arrow-1.png" style="float: left; width: 10%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="https://i.ibb.co/1LKPkFq/after.gif" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
   <p style="clear: both;">
   <br>
