@@ -1,17 +1,17 @@
 {
   "name": "DougDoug Chat Filter",
   "version": "1.0",
-  "description": "Filters chat for high quality messages.",
+  "description": "Filters spam from the DougDoug Twitch chat.",
   "content_scripts": [{
       "matches": ["https://www.twitch.tv/*"],
       "js": ["assets/js/jquery-3.6.0.js", "assets/js/arrive-2.4.1.js", "content.js"],
       "run_at": "document_end"
   }],
-  "manifest_version": 2,
+  "manifest_version": 3,
   "permissions": [
     "storage"
   ],
-  "browser_action": {
+  "action": {
     "default_popup": "popup.html",
     "default_icon": {
     "48": "assets/icons/48.png",
