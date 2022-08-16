@@ -50,8 +50,8 @@ RMQoBV7MkpEzVr3fZsndbpsC1vU7wtuETh<br>
 Don't forget to reload page after changing the settings!
 
 ## How To Use
-
-Chrome Webstore link coming soon!
+DOWNLOAD HERE:
+https://chrome.google.com/webstore/detail/dougdoug-chat-filter/okakdackaioecaleagninnjfbiomicbo
 
 * Download the .zip and unzip
 * Goto chrome://extensions/
